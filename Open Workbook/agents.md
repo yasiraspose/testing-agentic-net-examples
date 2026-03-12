@@ -7,3 +7,4 @@ Open Workbook
 ## Examples
 
 - Open_Workbook_with_data_only_using_LoadOptions_in_XLSX_format.cs
+- Open_Workbook_loading_only_visible_worksheets_using_a_custom_LoadFilter_in_XLSX_.cs
