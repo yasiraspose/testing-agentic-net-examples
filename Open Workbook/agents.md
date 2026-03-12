@@ -1,0 +1,9 @@
+# Open Workbook Examples
+
+This folder contains **Aspose.Cells for .NET** examples for:
+
+Open Workbook
+
+## Examples
+
+- Open_Workbook_with_data_only_using_LoadOptions_in_XLSX_format.cs
